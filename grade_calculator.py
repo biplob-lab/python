@@ -33,5 +33,8 @@ elif 85<= number <=89:
     print (f"The student number is {number} and grade is A- and the grade point is 3.7")
 
 elif 90<= number <=100:
-    print (f"The student number is {number} and grade is C+ and the grade point is 4.0")
+    print (f"The student number is {number} and grade is A and the grade point is 4.0")
+
+else:
+    print("Invalid Number! Please enter a number between 0-100")
 

@@ -25,3 +25,19 @@ devis = division(2,5)
 final = devis + 2
 print(final) """
 
+
+#Build in functions
+""" coutries = {"First world country":"Japan", "Third world country":"Bd"}
+print(type(coutries))
+print(len(coutries))
+print(max(coutries))
+print(min(coutries))
+ """
+""" 
+for i in range(1,20,5):
+    print(i) """
+
+
+
+
+

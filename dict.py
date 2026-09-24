@@ -29,6 +29,7 @@ avoid_keyerror = fruits.pop("mango", "not found")
 print(f"mango is {avoid_keyerror}")
 print(fruits) """
 
-car = {"brand": "Toyota", "model": "Corolla", "year": 2022, "price": 25000}
+""" car = {"brand": "Toyota", "model": "Corolla", "year": 2022, "price": 25000}
 for key,value in car.items():
-    print(f"{key}: {value}")
+    print(f"{key}: {value}") """
+
